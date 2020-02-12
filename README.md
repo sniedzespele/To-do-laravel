@@ -1,2 +1,2 @@
 # To-do-laravel
-PHP, Laravel
+PHP, Laravel, MySQL,Apache
